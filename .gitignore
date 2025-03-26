@@ -1,0 +1,29 @@
+# ROS2 build files
+build/
+install/
+log/
+
+# CMake and colcon files
+CMakeCache.txt
+CMakeFiles/
+colcon.meta
+.colcon/
+
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# ROS2-generated packages
+rosidl_generator_cpp/
+rosidl_generator_py/
+
+# Miscellaneous system files
+.DS_Store
+Thumbs.db
